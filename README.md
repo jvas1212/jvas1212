@@ -1,10 +1,14 @@
-- 👋 Olá, sou @jvas1212
-- 👀 Estou interessado emaprender a linguagem de programação.
-- 🌱 Atualmente estou aprendendo a linguagem Python.
-- 📫 Forma de contato comigo via email: joao_souza04@yahoo.com
-- ⚡ Sou brasileiro, moro em SP. Atualmente curso gestão de TI, mas estou muito interessado em aprender a programar, e assim também conto com a ajuda da comunidade da GITHUB para conseguir aprender a programar. 
+🎯 Sobre mim
+Sou formado em Gestão de TI e estou me aprofundando no desenvolvimento front-end, explorando tecnologias como HTML, CSS, JavaScript e React. Busco aprimorar minhas habilidades e construir projetos que unam design e funcionalidade para criar experiências interativas.
 
-<!---
-jvas1212/jvas1212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 O que estou aprendendo
+	•	Estruturas e boas práticas de HTML e CSS
+	•	JavaScript moderno e manipulação do DOM
+	•	Desenvolvimento de interfaces dinâmicas com React
+	•	Controle de versão com Git/GitHub
+
+💡 Objetivo
+Aprimorar minhas habilidades, contribuir para projetos open-source e me tornar um desenvolvedor front-end de alto nível.
+
+🔗 Vamos conectar?
+Seja para trocar experiências ou colaborar em projetos, fique à vontade para entrar em contato!
